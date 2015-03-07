@@ -4,4 +4,5 @@
     android:layout_height="wrap_content"
     android:layout_gravity="center"
     android:contentDescription="@string/com_parse_ui_logo_content_description"
-    android:src="@drawable/web_hi_res_512" /><!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout/com_parse_ui_parse_login_app_logo.xml -->
+    android:src="@drawable/web_hi_res_512" />
+<!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout/com_parse_ui_parse_login_app_logo.xml -->

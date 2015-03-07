@@ -21,4 +21,5 @@
         android:layout_height="wrap_content"
         android:layout_weight="0.5" />
 
-</LinearLayout><!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout/com_parse_ui_parse_signup_fragment.xml -->
+</LinearLayout>
+<!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout/com_parse_ui_parse_signup_fragment.xml -->

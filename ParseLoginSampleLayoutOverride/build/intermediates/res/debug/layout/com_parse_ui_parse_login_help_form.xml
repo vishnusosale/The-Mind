@@ -6,9 +6,9 @@
 
     <TextView
         android:id="@+id/login_help_instructions"
+        style="@style/ParseLoginUI.TextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="@style/ParseLoginUI.TextView"
         android:gravity="center"
         android:text="@string/com_parse_ui_login_help_instructions" />
 
@@ -24,7 +24,7 @@
         android:id="@+id/login_help_submit"
         style="@style/ParseLoginUI.Button"
         android:layout_marginTop="@dimen/com_parse_ui_xlarge_vertical_spacing"
-        android:text="@string/com_parse_ui_login_help_submit_button_label"
-        android:background="#fffbbe07"/>
+        android:background="#fffbbe07"
+        android:text="@string/com_parse_ui_login_help_submit_button_label" />
 </LinearLayout>
 <!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout/com_parse_ui_parse_login_help_form.xml --><!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginSampleLayoutOverride/build/intermediates/exploded-aar/TheSecret/ParseLoginUI/unspecified/res/layout/com_parse_ui_parse_login_help_form.xml -->

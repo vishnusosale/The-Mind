@@ -2,11 +2,11 @@
 manifest
 ADDED from AndroidManifest.xml:1:1
 	package
-		ADDED from AndroidManifest.xml:2:11
+		ADDED from AndroidManifest.xml:2:5
 	android:versionName
-		ADDED from AndroidManifest.xml:4:11
+		ADDED from AndroidManifest.xml:4:5
 	android:versionCode
-		ADDED from AndroidManifest.xml:3:11
+		ADDED from AndroidManifest.xml:3:5
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
 	xmlns:android

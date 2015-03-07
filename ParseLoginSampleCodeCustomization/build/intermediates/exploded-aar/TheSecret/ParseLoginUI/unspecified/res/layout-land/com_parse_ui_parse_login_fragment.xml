@@ -25,4 +25,5 @@
 
         <include layout="@layout/com_parse_ui_parse_login_third_party_section" />
     </LinearLayout>
-</LinearLayout><!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout-land/com_parse_ui_parse_login_fragment.xml -->
+</LinearLayout>
+<!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout-land/com_parse_ui_parse_login_fragment.xml -->

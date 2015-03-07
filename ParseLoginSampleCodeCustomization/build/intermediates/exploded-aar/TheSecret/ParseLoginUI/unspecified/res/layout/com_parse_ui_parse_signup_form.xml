@@ -58,4 +58,5 @@
         android:background="#fffbbe07"
         android:text="@string/com_parse_ui_create_account_button_label" />
 
-</LinearLayout><!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout/com_parse_ui_parse_signup_form.xml -->
+</LinearLayout>
+<!-- From: file:/G:/Android%20Workspace/TheSecret/ParseLoginUI/res/layout/com_parse_ui_parse_signup_form.xml -->
