@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <span style="line-height: 1.5; font-style: inherit; font-weight: inherit;">
+        tools:ignore="TypographyDashes">
+    </span>
+
+    <string name="ga_logLevel">Info</string>
+    <!-- The apps Analytics Tracking Id -->
+    <string name="ga_trackingId">UA-60146259-1</string>
+
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!-- catch and report uncaught exceptions from the app -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <integer name="ga_dispatchPeriod">1</integer>
+
+    <!-- How long a session exists before giving up -->
+    <!--<integer name="ga_sessionTimeout">-1</integer>-->
+    <bool name="ga_dryRun">false</bool>
+
+    <!-- If ga_autoActivityTracking is enabled, an alternate screen name can be specified to
+    substitute for the full length canonical Activity name in screen view hit. In order to
+    specify an alternate screen name use an <screenName> element, with the name attribute
+    specifying the canonical name, and the value the alias to use instead. -->
+    <screenName name="com.mycompany.MyActivity">My Activity</screenName>
+
+</resources>
